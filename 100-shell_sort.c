@@ -2,9 +2,9 @@
 
 
 /**
- * swap_ints - Swap two integers in an array.
- * @a: The first integer to swap.
- * @b: The second integer to swap.
+ * swap_ints - ...
+ * @a: ...
+ * @b: ...
  */
 void swap_ints(int *a, int *b)
 {
@@ -18,12 +18,10 @@ void swap_ints(int *a, int *b)
 
 
 /**
- * shell_sort - Sort an array of integers in ascending
- *              order using the shell sort algorithm.
- * @array: An array of integers.
- * @size: The size of the array.
- *
- * Description: Uses the Knuth interval sequence.
+ * shell_sort - ...
+ * @array: ...
+ * @size: ...
+ * Description: ...
  */
 void shell_sort(int *array, size_t size)
 {
